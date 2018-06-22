@@ -1,0 +1,53 @@
+body {
+	position: relative;
+	background-color:#000001;
+}
+
+body {
+	font-family: "Courier New", Courier, monospace;
+	color: #8218ce;
+}
+#Status{
+	border-style: double;
+	color: blue;
+	position: relative;
+	background-color: red;
+	text-align: center;
+	margin: 0 auto;
+    width: 90%;
+
+}
+
+#title {
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+
+#instruction, #alerts {
+	text-align: center;
+	font-size: 12px;
+}
+
+#principal {
+	width: 960px;
+	margin: 0px auto 0px auto;
+}
+
+.painel {
+	background-color: #72d157;
+	padding: 20px;
+	margin: 10px;
+}
+
+#word-display {
+	text-align: center;
+	font-size: 32px;
+	padding: 10px;
+	padding-bottom: 20px;
+}
+
+#general-display {
+	text-align: center;
+	font-size: 16px;
+}
